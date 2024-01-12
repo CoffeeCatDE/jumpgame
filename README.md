@@ -10,3 +10,5 @@ pip install pygame
 ## Execution
 Then you can play it with executing the following in the console:
 ./jumpgame.py
+
+![Screenshot of Game](screenshot.png)
